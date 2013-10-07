@@ -1,0 +1,24 @@
+
+.boton{
+    -fx-background-image: url("rss.png");
+    -fx-background-size:21px 21px;
+    -fx-background-repeat:no-repeat;
+  
+}
+.fondo{
+      
+    -fx-background-image:url("Encabezado.png");
+    -fx-background-size:308px 78px;
+    -fx-background-repeat:no-repeat;
+  
+}
+.fondoEsquina{
+    
+   -fx-background-image:url("esquina.png");
+    -fx-background-size:113px 89px;
+    -fx-background-repeat:no-repeat;
+  
+}
+.labelnoticias{
+   -fx-border-color: crimson; 
+}
